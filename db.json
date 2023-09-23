@@ -1,9 +1,22 @@
 {
-    "users": [
-      {
-        "id": 1,
-        "name": "Biswa",
-        "password": "biswa"
-      }
-    ]
-  }
+  "products": [
+    {
+      "id": 1,
+      "name": "Levi's",
+      "image": "https://www.beyoung.in/api/cache/catalog/products/men_new_jeans/bold_willow_blue_regular_fit_jeans_base_8_11_2022_400x533.jpg",
+      "description": "Blue Jeans for Men",
+      "gender": "Male",
+      "category": "Jeans",
+      "price": 799
+    },
+    {
+      "id": 2,
+      "name": "Silk Saree",
+      "image": "https://5.imimg.com/data5/LU/BP/OO/SELLER-37269396/aqau-colour-grogeosu-party-wear-women-silk-wear-designer-saree-best-selling-party-wear-5400.jpg",
+      "description": "Saree for party Wear",
+      "gender": "Female",
+      "category": "Saree",
+      "price": 1799
+    }
+  ]
+}
